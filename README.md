@@ -1,5 +1,5 @@
 ### Acerca de mí 👋
-¡Hola, soy Gineth Guáqueta👋 Actualmente estoy inmersa en el emocionante mundo del desarrollo web y, específicamente, me encuentro aprendiendo sobre frontend en Laboratoria. Mi viaje en este fascinante universo tecnológico está marcado por la pasión por crear experiencias visuales cautivadoras y funcionales.
+¡Hola! 👋 Actualmente estoy inmersa en el emocionante mundo del desarrollo web y, específicamente, me encuentro aprendiendo sobre frontend en Laboratoria. Mi viaje en este fascinante universo tecnológico está marcado por la pasión por crear experiencias visuales cautivadoras y funcionales.
 
 🚀 Aprendizaje Continuo: Como estudiante en Laboratoria, estoy comprometida con un aprendizaje continuo y la mejora constante de mis habilidades en desarrollo web. 
 
